@@ -13,6 +13,8 @@ Starter code for transpiling ES2015 (including modules) with Babel, Gulp and Bro
 
 Run `npm start` from the command line and you are good to go!
 
-The project is currently setup to transpile code under the _/src_ folder using the _/src/app.js_ file as an entry point.
+The project is currently setup to transpile code under the _/src_ folder using the _/src/app.js_ file as an entry point, keeping this file "lean".
 
 The resulting code ends up in the `public` directory.
+
+Do not forget to restart your server everytime you commit, It won't work otherwise.
