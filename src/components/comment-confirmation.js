@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default class CommentRemoveConfirmation extends React.Component {
+export default class CommentConfirmation extends React.Component {
   constructor() {
     super();
 
